@@ -1,0 +1,41 @@
+body {
+  margin: auto;
+  width: 1000px;
+  background-color: #222;
+  color: white;
+}
+a {
+  color: #0ff;
+}
+h1 {
+  font-size: 36pt;
+}
+div.masthead {
+  padding-left: 20px;
+  border-radius: 10px;
+  background-color: red;
+}
+div.masthead h1 {
+  color: #ccc;
+  font-size: 48pt;
+}
+.curvy {
+  padding: 10px;
+  border-radius: 10px;
+}
+div.nav {
+  margin: auto;
+  margin-left: 15px;
+  background-color: #033;
+  float: left;
+}
+div.contents {
+  background-color: #002;
+  margin: auto;
+  margin-left: 50px;
+  width: 700px;
+  display: inline-block;
+}
+div.nav > ul {
+  margin-top: 0;
+}
